@@ -16,7 +16,7 @@ There are 4 possible actions:
 3.	**s:** View all high scores from scores.dat
 4.	**e:** exit game  
 
-
+  
 **Defeat:**
 
 ![Loss](demo/loss.png)
