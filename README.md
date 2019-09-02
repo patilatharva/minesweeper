@@ -18,7 +18,7 @@ There are 4 possible actions:
 
 Victory:
 
-![Win](demo/start.png)
+![Win](demo/win.png)
 
 Defeat:
 
