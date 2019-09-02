@@ -16,13 +16,13 @@ There are 4 possible actions:
 3.	**s:** View all high scores from scores.dat
 4.	**e:** exit game
 
-Victory:
-
-![Win](demo/win.png)
-
 Defeat:
 
 ![Loss](demo/loss.png)
+
+Victory:
+
+![Win](demo/win.png)
 
 Leaderboard:
 
