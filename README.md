@@ -14,16 +14,17 @@ There are 4 possible actions:
 1.	**f:** Flag a spot
 2.	**t:** Target a spot and reveal the square
 3.	**s:** View all high scores from scores.dat
-4.	**e:** exit game
+4.	**e:** exit game  
 
-Defeat:
+
+**Defeat:**
 
 ![Loss](demo/loss.png)
 
-Victory:
+**Victory:**
 
 ![Win](demo/win.png)
 
-Leaderboard:
+**Leaderboard:**
 
 ![Leaderboard](demo/leaderboard.png)
