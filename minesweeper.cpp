@@ -338,5 +338,5 @@ void startGame() // starts a new game
 int main()
 {
 	startGame();
-  return 1;
+  	return 1;
 }
