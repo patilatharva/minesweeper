@@ -1,6 +1,6 @@
 # Old School Minesweeper
 
-Minesweeper (remember?) written in Object-Oriented C++98 in DOS for my grade 12 computer science class.
+Minesweeper written in Object-Oriented C++98 in DOS for my grade 12 computer science class.
 
 ![Starting screen](demo/start.png)
 
